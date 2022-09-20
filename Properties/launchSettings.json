@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OETransform": {
+      "commandName": "Project",
+      "commandLineArgs": "-i .\\testdata\\anne_entries_test.csv"
+    }
+  }
+}
